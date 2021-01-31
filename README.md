@@ -22,4 +22,5 @@ $ ./prog
 ## Alunos:
 
 Gabriel Augusto - T01 M56
+
 Lucas Vieira - N12
