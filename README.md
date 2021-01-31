@@ -1,7 +1,20 @@
-# trabalho_1.1_so
+# Trabalho 1.1 da disciplina Sistemas Operacionais
 
-Para rodar o main 2:
+## Versões dos programas
 
-g++ -o main2 main2.cpp
+- Sistema operacional Deepin 20.1, um Linux baseado no Debian Stable
+- g++ versão 8.3.0 (Uos 8.3.0.3-3+rebuild) 
 
-./main2
+## Rodando o programa
+
+Para compilar o código, rode o seguinte comando:
+
+```
+$ g++ -o prog main.cpp
+```
+
+Para executar, rode o seguinte comando:
+
+```
+$ ./prog
+```
