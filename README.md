@@ -18,3 +18,8 @@ Para executar, rode o seguinte comando:
 ```
 $ ./prog
 ```
+
+## Alunos:
+
+Gabriel Augusto - T01 M56
+Lucas Vieira - N12
